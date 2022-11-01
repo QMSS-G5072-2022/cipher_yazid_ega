@@ -32,7 +32,7 @@ def cipher(text, shift, encrypt=True):
     >>> cipher_ey2335.cipher(text='xbmmvu', shift=1, encrypt=True)
         Output : 'wallnut'
     """
-    
+
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     new_text = ''
     for c in text:

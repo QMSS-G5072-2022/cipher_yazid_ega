@@ -3,7 +3,7 @@ from cipher_ey2335 import cipher_ey2335
 # Importing pytest
 import pytest
 
-## 1A - Testing single letter word
+## Testing single letter word
 def test_singleword_cipher():
     singleword = ['a','b','c'] # Generate set of single word to be tested
     expected = ['c','d','e'] # Generate expected return
