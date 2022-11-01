@@ -1,6 +1,6 @@
 # cipher_ey2335
 
-A great package for hw07 by Ega Kurnia Yazid!
+A great package for hw07! It is the tool to encrypt and decrypt text using Caesar Cipher.
 
 ## Installation
 
