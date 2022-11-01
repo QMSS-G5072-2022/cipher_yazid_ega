@@ -1,4 +1,4 @@
-import cipher_ey2335
+from cipher_ey2335 import cipher_ey2335
 
 # Importing pytest
 import pytest
