@@ -15,7 +15,6 @@ Encrypt text using Caesar Cipher method.
     It converts each letter by certain shifts.
 
 #### Parameters
-    ----------
     text : Text or string type parameter.
         Text that you would like to encrypt. It should be alphabet only.
         Number and symbol cannot be encrypted.
@@ -26,12 +25,9 @@ Encrypt text using Caesar Cipher method.
         If the value is False, the function will decrypt the text.
     
 #### Returns
-    -------
     String type output. Encrpyted text by how many shifts that determined.
 
 #### Examples
-    --------
-
     Encryption:
     >>> from cipher_yazid_ega import cipher_ey2335
     >>> cipher_ey2335.cipher(text='wallnut', shift=1, encrypt=True)
