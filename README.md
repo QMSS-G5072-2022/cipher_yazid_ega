@@ -1,4 +1,5 @@
 # cipher_ey2335
+[![Documentation Status](https://readthedocs.org/projects/cipher-yazid-ega/badge/?version=latest)](https://cipher-yazid-ega.readthedocs.io/en/latest/?badge=latest)
 
 A great package for hw07! It is the tool to encrypt and decrypt text using Caesar Cipher.
 
